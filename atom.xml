@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://https://virtualchrisp.github.io/</id>
+    <id>https://virtualchrisp.github.io/</id>
     <title>VirtualChrisP个人博客</title>
-    <updated>2020-11-14T03:53:10.230Z</updated>
+    <updated>2020-11-14T03:54:35.253Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://https://virtualchrisp.github.io/"/>
-    <link rel="self" href="https://https://virtualchrisp.github.io/atom.xml"/>
+    <link rel="alternate" href="https://virtualchrisp.github.io/"/>
+    <link rel="self" href="https://virtualchrisp.github.io/atom.xml"/>
     <subtitle>道阻且长</subtitle>
-    <logo>https://https://virtualchrisp.github.io/images/avatar.png</logo>
-    <icon>https://https://virtualchrisp.github.io/favicon.ico</icon>
+    <logo>https://virtualchrisp.github.io/images/avatar.png</logo>
+    <icon>https://virtualchrisp.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, VirtualChrisP个人博客</rights>
     <entry>
         <title type="html"><![CDATA[Hello World!!!!]]></title>
-        <id>https://https://virtualchrisp.github.io/post/hello/</id>
-        <link href="https://https://virtualchrisp.github.io/post/hello/">
+        <id>https://virtualchrisp.github.io/post/hello/</id>
+        <link href="https://virtualchrisp.github.io/post/hello/">
         </link>
         <updated>2020-11-14T03:36:04.000Z</updated>
         <content type="html"><![CDATA[<p>Hello World!!!<br>
 在本人的不懈努力下，本萌新终于搭建好了人生中的第一个博客❤️❤️❤️❤️❤️<br>
-<img src="https://https://virtualchrisp.github.io//post-images/1605325144088.jpg" alt="" loading="lazy"></p>
+<img src="https://virtualchrisp.github.io//post-images/1605325144088.jpg" alt="" loading="lazy"></p>
 ]]></content>
     </entry>
 </feed>
