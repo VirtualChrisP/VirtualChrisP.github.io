@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://virtualchrisp.github.io</id>
     <title>VirtualChrisP个人博客</title>
-    <updated>2020-11-14T03:58:35.144Z</updated>
+    <updated>2020-11-14T03:59:17.248Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://virtualchrisp.github.io"/>
     <link rel="self" href="https://virtualchrisp.github.io/atom.xml"/>
@@ -10,6 +10,17 @@
     <logo>https://virtualchrisp.github.io/images/avatar.png</logo>
     <icon>https://virtualchrisp.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, VirtualChrisP个人博客</rights>
+    <entry>
+        <title type="html"><![CDATA[hello]]></title>
+        <id>https://virtualchrisp.github.io/post/hello2/</id>
+        <link href="https://virtualchrisp.github.io/post/hello2/">
+        </link>
+        <updated>2020-11-14T03:58:53.000Z</updated>
+        <content type="html"><![CDATA[<p>Hello World!!!<br>
+在本人的不懈努力下，本萌新终于搭建好了人生中的第一个博客❤️❤️❤️❤️❤️<br>
+<img src="https://virtualchrisp.github.io/post-images/1605325144088.jpg" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello World!!!!]]></title>
         <id>https://virtualchrisp.github.io/post/hello/</id>
