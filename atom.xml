@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://virtualchrisp.github.io</id>
     <title>VirtualChrisP个人博客</title>
-    <updated>2020-11-14T04:04:25.103Z</updated>
+    <updated>2020-11-16T12:18:50.459Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://virtualchrisp.github.io"/>
     <link rel="self" href="https://virtualchrisp.github.io/atom.xml"/>
@@ -10,6 +10,15 @@
     <logo>https://virtualchrisp.github.io/images/avatar.png</logo>
     <icon>https://virtualchrisp.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, VirtualChrisP个人博客</rights>
+    <entry>
+        <title type="html"><![CDATA[22考研决定跨考计算机了，以后会更新一些计算机考研知识，加油]]></title>
+        <id>https://virtualchrisp.github.io/post/22-kao-yan-jue-ding-kua-kao-ji-suan-ji-liao-yi-hou-hui-geng-xin-yi-xie-ji-suan-ji-kao-yan-zhi-shi-jia-you/</id>
+        <link href="https://virtualchrisp.github.io/post/22-kao-yan-jue-ding-kua-kao-ji-suan-ji-liao-yi-hou-hui-geng-xin-yi-xie-ji-suan-ji-kao-yan-zhi-shi-jia-you/">
+        </link>
+        <updated>2020-11-16T12:16:14.000Z</updated>
+        <content type="html"><![CDATA[<p>💪💪💪</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello World!!!!]]></title>
         <id>https://virtualchrisp.github.io/post/hello/</id>
