@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://virtualchrisp.github.io</id>
     <title>VirtualChrisP个人博客</title>
-    <updated>2020-11-16T12:52:14.346Z</updated>
+    <updated>2020-11-18T11:30:00.631Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://virtualchrisp.github.io"/>
     <link rel="self" href="https://virtualchrisp.github.io/atom.xml"/>
@@ -10,6 +10,41 @@
     <logo>https://virtualchrisp.github.io/images/avatar.png</logo>
     <icon>https://virtualchrisp.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, VirtualChrisP个人博客</rights>
+    <entry>
+        <title type="html"><![CDATA[数据结构：绪论——1.2算法的时间复杂度和空间复杂度]]></title>
+        <id>https://virtualchrisp.github.io/post/shu-ju-jie-gou-xu-lun-12-suan-fa-de-shi-jian-fu-za-du-he-kong-jian-fu-za-du/</id>
+        <link href="https://virtualchrisp.github.io/post/shu-ju-jie-gou-xu-lun-12-suan-fa-de-shi-jian-fu-za-du-he-kong-jian-fu-za-du/">
+        </link>
+        <updated>2020-11-18T10:56:47.000Z</updated>
+        <content type="html"><![CDATA[<p>一、<strong>算法的时间复杂度</strong><br>
+1、一般情况下，算法中基本操作重复执行的次数是问题规模n的某个函数，用T(n)表示。我们通常使用算法的最坏情况复杂度，记为T(n)，定义为任何大小的输入n所需的最大运行时间。<br>
+2、时间复杂度常用大O符号表述，忽略这个函数的低阶项和首项系数。</p>
+<p>【1】加法规则<br>
+T(n,m) = T1(n) + T2(m) = O (max ( f(n), g(m) )          //<em>多项相加，之保留最高阶 的项，且系数变为1</em></p>
+<p>【2】 乘法规则<br>
+T(n,m) = T1(n) * T2(m) = O (f(n) * g(m))                   //<em>多项相乘都保留</em><br>
+常见的渐进时间复杂度为：<br>
+<img src="https://virtualchrisp.github.io/post-images/1605697801887.png" alt="" loading="lazy"><br>
+<strong>注意</strong>：<br>
+1）顺序执行的代码只影响常数项，可忽略；<br>
+2）只需挑循环中的一个操作分析它的执行次数与n关系；<br>
+3）多层嵌套循环只关注最深层循环。</p>
+<p>🛫🛫🛫🛫🛫🛫🛫🛫🛫🛫🛫🛫🛫🛫🛫🛫🛫🛫🛫🛫🛫🛫🛫🛫🛫🛫🛫🛫🛫🛫🛫🛫🛫🛫🛫<br>
+☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁️☁</p>
+<p>二、<strong>算法的空间复杂度</strong><br>
+1、空间复杂度(Space Complexity)是对一个算法在运行过程中临时占用存储空间大小的量度，记做S(n)=O(f(n))。一个算法的空间复杂度S(n)定义为该算法所耗费的存储空间，它也是问题规模n的函数。<br>
+2、加、乘规则与时间复杂度相同。<br>
+3、分析方法：<br>
+普通程序：<br>
+1）找到所占空间大小与问题规模相关变量；<br>
+2)分析所占空间x与问题规模n的关系x=f(n);<br>
+3)x的数量级O（x）就是空间复杂度。<br>
+递归程序：<br>
+1）找到递归调用的深度x与问题规模n的关系x=f(n);<br>
+2)x的数量级O（x）就是空间复杂度。<br>
+<img src="https://virtualchrisp.github.io/post-images/1605698592673.png" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[数据结构：绪论——1.1数据结构与算法基本概念]]></title>
         <id>https://virtualchrisp.github.io/post/shu-ju-jie-gou-xu-lun-11-shu-ju-jie-gou-yu-suan-fa-ji-ben-gai-nian/</id>
